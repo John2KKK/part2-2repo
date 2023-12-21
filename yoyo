@@ -1,3 +1,2 @@
-yoyo
-chingchong
-jade junior
+#!/bin/bash
+echo "Hello World"
